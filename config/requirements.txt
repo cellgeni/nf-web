@@ -1,5 +1,5 @@
 psycopg2-binary==2.7.7
 pytest==4.1.1
-PyYAML==3.13
+PyYAML==5.1
 requests==2.21.0
 SQLAlchemy==1.2.17
